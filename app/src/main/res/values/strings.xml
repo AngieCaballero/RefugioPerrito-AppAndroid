@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Refugio de perritos</string>
+    <string name="dialog_one_style_title">Advertencia</string>
+    <string name="dialog_one_style_message">¿Está seguro de cancelar?</string>
+    <string name="dialog_one_style_negative_btn">No</string>
+    <string name="dialog_one_style_positive_btn">Sí</string>
+</resources>
